@@ -1,0 +1,103 @@
+#div0{
+    background-color:aqua;
+    width:500px;
+    height:600px;
+    text-align: center;
+    font-size: large;
+    border: 2px solid black;
+    padding: 30px;
+    
+}
+#abc{
+    position: relative;
+    left: 350px;
+}
+
+
+    
+    
+
+#head{
+    position: relative;
+    background-color: aliceblue;
+    border-radius: 10px;
+    
+    
+}
+#parent{
+    background-color: gray;
+    width: 450px;
+    height: 500px;
+    padding: 10px;
+    border: 2px solid black;
+    display: grid;
+    border-radius: 10px;
+    grid-template-columns:100px 100px 100px 100px;
+    grid-template-columns:100px 100px 100px 100px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    gap: 15px 15px;
+    
+}
+
+#para{
+    width: 450px;
+    height: 40px;
+}
+
+#div1{
+    background-color: yellow;
+    position: relative;
+    right: 230px;
+    position: relative;
+    top: 116px;
+}
+#div2{
+    background-color: yellow;
+    position: relative;
+    left: 113px;
+}
+#div3{
+    background-color: yellow;
+}
+#div4{
+    background-color: red;
+}
+#div5{
+    background-color: yellow;
+}
+#div6{
+    background-color: yellow;
+}
+#div7{
+    background-color: yellow;
+}
+#div8{
+    background-color: red;
+}
+#div9{
+    background-color: yellow;
+}
+#div10{
+    background-color: yellow;
+}
+#div11{
+    background-color: yellow;
+
+}
+#div12{
+    background-color: red;
+}
+#div13{
+    background-color: red;
+}
+#div14{
+    background-color: yellow;
+}
+#div15{
+    background-color: red;
+}
+#div16{
+    background-color: red;
+}
+
